@@ -13,7 +13,7 @@
         <mxCell id="Itiebc9yp4M1VHobZQM9-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="200" width="200" x="600" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="Itiebc9yp4M1VHobZQM9-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="第一步：" vertex="1">
+        <mxCell id="Itiebc9yp4M1VHobZQM9-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="第一步：CFG" vertex="1">
           <mxGeometry height="30" width="60" x="180" y="150" as="geometry" />
         </mxCell>
         <mxCell id="bqUrxYWdrYXXgeFTLN6b-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="第二步：路径生成策略" vertex="1">
