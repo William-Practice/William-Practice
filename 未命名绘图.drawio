@@ -44,7 +44,10 @@
           <mxGeometry height="50" width="100" x="140" y="310" as="geometry" />
         </mxCell>
         <mxCell id="IdoqA0YBR6DAOgrGVnI_-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="第一步：测试路径生成" vertex="1">
-          <mxGeometry height="50" width="100" x="640" y="160" as="geometry" />
+          <mxGeometry height="50" width="100" x="611.37" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IdoqA0YBR6DAOgrGVnI_-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="测试用例生成" vertex="1">
+          <mxGeometry height="50" width="100" x="611.37" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
