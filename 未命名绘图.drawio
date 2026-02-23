@@ -49,8 +49,8 @@
         <mxCell id="IdoqA0YBR6DAOgrGVnI_-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="测试用例" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="IdoqA0YBR6DAOgrGVnI_-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="静态分析" vertex="1">
-          <mxGeometry height="60" width="120" x="110" y="230" as="geometry" />
+        <mxCell id="IdoqA0YBR6DAOgrGVnI_-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="第一步：静态分析" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
