@@ -37,14 +37,14 @@
         <mxCell id="IdoqA0YBR6DAOgrGVnI_-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="测试用例" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="IdoqA0YBR6DAOgrGVnI_-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#FFFFFF;" value="第一步：静态分析" vertex="1">
+        <mxCell id="IdoqA0YBR6DAOgrGVnI_-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="第一步：静态分析" vertex="1">
           <mxGeometry height="50" width="100" x="140" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="IdoqA0YBR6DAOgrGVnI_-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#FFFFFF;" value="第一步：动态处理" vertex="1">
+        <mxCell id="IdoqA0YBR6DAOgrGVnI_-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="第一步：动态处理" vertex="1">
           <mxGeometry height="50" width="100" x="140" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="IdoqA0YBR6DAOgrGVnI_-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#FFFFFF;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;第三步：测试路径集生成&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="630" y="380" as="geometry" />
+        <mxCell id="IdoqA0YBR6DAOgrGVnI_-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="第一步：测试路径生成" vertex="1">
+          <mxGeometry height="50" width="100" x="640" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
