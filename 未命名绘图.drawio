@@ -37,6 +37,9 @@
         <mxCell id="bby6OztxDI9icLUDA0yC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="C语言代码" vertex="1">
           <mxGeometry height="20" width="60" x="50" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="IdoqA0YBR6DAOgrGVnI_-27" edge="1" parent="1" source="bby6OztxDI9icLUDA0yC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IdoqA0YBR6DAOgrGVnI_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bby6OztxDI9icLUDA0yC-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="测试路径集合" vertex="1">
           <mxGeometry height="30" width="80" x="621.37" y="300" as="geometry" />
         </mxCell>
@@ -48,6 +51,11 @@
         </mxCell>
         <mxCell id="IdoqA0YBR6DAOgrGVnI_-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="第一步：动态处理" vertex="1">
           <mxGeometry height="50" width="100" x="140" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="IdoqA0YBR6DAOgrGVnI_-26" edge="1" parent="1" source="IdoqA0YBR6DAOgrGVnI_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661.7272727272725" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IdoqA0YBR6DAOgrGVnI_-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="第一步：测试路径生成" vertex="1">
           <mxGeometry height="50" width="100" x="611.37" y="160" as="geometry" />
