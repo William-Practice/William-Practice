@@ -61,8 +61,8 @@
         <mxCell id="IdoqA0YBR6DAOgrGVnI_-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="结束&amp;lt;br&amp;gt;&lt;div&gt;测试用例生成&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="670" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="VnuNZKlq3f4pUN9fuR8t-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="是否满足结束条件？" vertex="1">
-          <mxGeometry height="80" width="80" x="679.99" y="370" as="geometry" />
+        <mxCell id="VnuNZKlq3f4pUN9fuR8t-1" parent="1" style="rhombus;rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="是否满足结束条件？" vertex="1">
+          <mxGeometry height="60" width="140" x="650" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
