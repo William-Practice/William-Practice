@@ -66,6 +66,12 @@
         <mxCell id="IdoqA0YBR6DAOgrGVnI_-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="测试用例" vertex="1">
           <mxGeometry height="30" width="60" x="80" y="530" as="geometry" />
         </mxCell>
+        <mxCell id="sKh6Ck9wcifNEPxt4AtQ-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="340" as="sourcePoint" />
+            <mxPoint x="165" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IdoqA0YBR6DAOgrGVnI_-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="第一步：静态分析" vertex="1">
           <mxGeometry height="50" width="100" x="140" y="230" as="geometry" />
         </mxCell>
