@@ -115,8 +115,8 @@
             <mxPoint x="85.0044827586207" y="399.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sKh6Ck9wcifNEPxt4AtQ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="初始化路径的覆盖状态" vertex="1">
-          <mxGeometry height="40" width="100" x="140" y="330" as="geometry" />
+        <mxCell id="sKh6Ck9wcifNEPxt4AtQ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="初始化路径的覆盖状态&lt;div&gt;创建字典dict为 “路径覆盖状态表”&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="120" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
