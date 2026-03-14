@@ -135,13 +135,13 @@
           <mxGeometry height="10" width="130" x="428" y="180" as="geometry" />
         </mxCell>
         <mxCell id="7MnxjtCmPSQUjbKDX7AJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="&lt;b&gt;结束&lt;/b&gt;&amp;lt;br&amp;gt;&lt;div&gt;测试用例生成&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="1220" y="370.11" as="geometry" />
+          <mxGeometry height="50" width="100" x="1040" y="60" as="geometry" />
         </mxCell>
         <mxCell id="7MnxjtCmPSQUjbKDX7AJ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="&lt;b&gt;结束&lt;/b&gt;&amp;lt;br&amp;gt;&lt;div&gt;测试用例生成&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="1260" y="530.11" as="geometry" />
+          <mxGeometry height="50" width="100" x="1080" y="220" as="geometry" />
         </mxCell>
         <mxCell id="7MnxjtCmPSQUjbKDX7AJ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="&lt;b&gt;结束&lt;/b&gt;&amp;lt;br&amp;gt;&lt;div&gt;测试用例生成&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="1340" y="450.11" as="geometry" />
+          <mxGeometry height="50" width="100" x="1160" y="140" as="geometry" />
         </mxCell>
         <mxCell id="OppmNzS7R9uvfuUrzj8F-1" edge="1" parent="1" source="sKh6Ck9wcifNEPxt4AtQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sKh6Ck9wcifNEPxt4AtQ-20">
           <mxGeometry relative="1" as="geometry">
