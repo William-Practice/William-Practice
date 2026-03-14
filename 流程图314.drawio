@@ -160,6 +160,15 @@
         <mxCell id="OppmNzS7R9uvfuUrzj8F-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="分析循环边界条件" vertex="1">
           <mxGeometry height="50" width="100" x="423" y="240.11" as="geometry" />
         </mxCell>
+        <mxCell id="OppmNzS7R9uvfuUrzj8F-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="分析循环边界条件" vertex="1">
+          <mxGeometry height="50" width="100" x="460" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="OppmNzS7R9uvfuUrzj8F-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="分析循环边界条件" vertex="1">
+          <mxGeometry height="50" width="100" x="480" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="OppmNzS7R9uvfuUrzj8F-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=light-dark(#E05D5D,#E05D5D);shadow=1;" value="分析循环边界条件" vertex="1">
+          <mxGeometry height="50" width="100" x="470" y="430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
