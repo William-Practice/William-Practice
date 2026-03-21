@@ -28,8 +28,14 @@
         <mxCell id="oP28ooD_uX5hGmMyz6U6-1" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="CFG：路径生成的基石&lt;div&gt;环形复杂度：基本路径集的数量上限&lt;br&gt;数据流分析：追踪变量的定义、使用和传递&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="230" x="80" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="oP28ooD_uX5hGmMyz6U6-2" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="" vertex="1">
+        <mxCell id="yRlhxJY5RL-tTfC4KCpP-2" edge="1" parent="1" source="oP28ooD_uX5hGmMyz6U6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yRlhxJY5RL-tTfC4KCpP-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oP28ooD_uX5hGmMyz6U6-2" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="自适应循环采样&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="370" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="yRlhxJY5RL-tTfC4KCpP-1" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="路径片段合成" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="335" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
