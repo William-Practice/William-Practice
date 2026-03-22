@@ -37,7 +37,7 @@
         <mxCell id="yRlhxJY5RL-tTfC4KCpP-4" edge="1" parent="1" source="yRlhxJY5RL-tTfC4KCpP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yRlhxJY5RL-tTfC4KCpP-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yRlhxJY5RL-tTfC4KCpP-1" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="用子路径片段合成全局路径&lt;br&gt;Input:A,D&lt;br&gt;Initial：边访问标志&lt;br&gt;Output:通过边访问标志确保合成出的路径线性无关，可以组成基本路径。" vertex="1">
+        <mxCell id="yRlhxJY5RL-tTfC4KCpP-1" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="&lt;b&gt;用子路径片段合成全局路径&lt;/b&gt;&lt;br&gt;&lt;b&gt;Input&lt;/b&gt;:A,D&lt;br&gt;&lt;b&gt;Initial&lt;/b&gt;：边访问标志&lt;br&gt;&lt;b&gt;Output&lt;/b&gt;:通过边访问标志确保合成出的路径线性无关，可以组成基本路径。" vertex="1">
           <mxGeometry height="60" width="150" x="443" y="220" as="geometry" />
         </mxCell>
         <mxCell id="yRlhxJY5RL-tTfC4KCpP-3" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="约束驱动的验证与剪枝" vertex="1">
