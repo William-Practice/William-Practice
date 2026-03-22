@@ -31,8 +31,8 @@
         <mxCell id="yRlhxJY5RL-tTfC4KCpP-2" edge="1" parent="1" source="oP28ooD_uX5hGmMyz6U6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yRlhxJY5RL-tTfC4KCpP-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oP28ooD_uX5hGmMyz6U6-2" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="&lt;div&gt;策略采样&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="370" y="195" as="geometry" />
+        <mxCell id="oP28ooD_uX5hGmMyz6U6-2" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="&lt;div&gt;&lt;b&gt;子路径片段提取&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Input:C&lt;br&gt;Output:&lt;br&gt;&lt;/b&gt;提取循环体内部的 &lt;span class=&quot;math-inline&quot; data-math=&quot;0, 1, n&quot; data-index-in-node=&quot;23&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;$0, 1, n$&lt;/span&gt; 次迭代对应的&lt;b data-path-to-node=&quot;6,2,0&quot; data-index-in-node=&quot;37&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;局部路径片段&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="195" as="geometry" />
         </mxCell>
         <mxCell id="yRlhxJY5RL-tTfC4KCpP-4" edge="1" parent="1" source="yRlhxJY5RL-tTfC4KCpP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yRlhxJY5RL-tTfC4KCpP-3" value="">
           <mxGeometry relative="1" as="geometry" />
