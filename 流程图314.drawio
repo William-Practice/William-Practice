@@ -23,22 +23,22 @@
           <mxGeometry height="65" width="200" x="130" y="120" as="geometry" />
         </mxCell>
         <mxCell id="u6Nuiy7-A3NAGxYC8Qxy-1" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iLTEuMDM5NDIyMjM3NTE3MDczNmUtMTIgMCAxMDI0IDEwMjQiIHZlcnNpb249IjEuMSIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiPjxwYXRoIGQ9Ik0xNDYuMjg1NzE0IDEwMjRhMTQ2LjI4NTcxNCAxNDYuMjg1NzE0IDAgMCAxLTE0Ni4yODU3MTQtMTQ2LjI4NTcxNFYxNDYuMjg1NzE0YTE0Ni4yODU3MTQgMTQ2LjI4NTcxNCAwIDAgMSAxNDYuMjg1NzE0LTE0Ni4yODU3MTRoNjUyLjA2ODU3MkwxMDI0IDIyNS43MTg4NTdWODc3LjcxNDI4NmExNDYuMjg1NzE0IDE0Ni4yODU3MTQgMCAwIDEtMTQ2LjI4NTcxNCAxNDYuMjg1NzE0eiBtMC0xNDYuMjg1NzE0aDczMS40Mjg1NzJWMjg2LjU3MzcxNEw3MzcuNDk5NDI5IDE0Ni4yODU3MTRIMTQ2LjI4NTcxNHogbTczLjE0Mjg1Ny0xNDYuMjg1NzE1VjU4NS4xNDI4NTdoNTg1LjE0Mjg1OHYxNDYuMjg1NzE0eiBtMC0yOTIuNTcxNDI4VjI5Mi41NzE0MjloMzY1LjcxNDI4NnYxNDYuMjg1NzE0eiIgZmlsbD0iIzEyOTZkYiIvPjwvc3ZnPg==;" value="全局基本路径集" vertex="1">
-          <mxGeometry height="50" width="50" x="360" y="400" as="geometry" />
+          <mxGeometry height="50" width="50" x="364" y="500" as="geometry" />
         </mxCell>
         <mxCell id="oP28ooD_uX5hGmMyz6U6-1" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;b&gt;CFG&lt;/b&gt;：路径生成的基石&lt;div&gt;&lt;b&gt;环形复杂度&lt;/b&gt;：基本路径集的数量上限&lt;br&gt;&lt;b&gt;数据流分析&lt;/b&gt;：追踪变量的定义、使用和传递&lt;br&gt;&lt;b&gt;“提取 &lt;span class=&quot;math-inline&quot; data-math=&quot;0, 1, n&quot; data-index-in-node=&quot;4&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;0, 1, n&lt;/span&gt;&amp;nbsp;次迭代的局部路径片段”&lt;/b&gt;:&lt;span data-path-to-node=&quot;1&quot; data-index-in-node=&quot;29&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;基于边界值分析的路径规约&lt;/span&gt;。&lt;/div&gt;" vertex="1">
-          <mxGeometry height="210" width="230" x="120" y="210" as="geometry" />
+          <mxGeometry height="210" width="230" x="20" y="250" as="geometry" />
         </mxCell>
         <mxCell id="yRlhxJY5RL-tTfC4KCpP-2" edge="1" parent="1" source="oP28ooD_uX5hGmMyz6U6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yRlhxJY5RL-tTfC4KCpP-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oP28ooD_uX5hGmMyz6U6-2" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="&lt;div&gt;&lt;b&gt;子路径片段提取&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Input:C&lt;br&gt;Output:&lt;/b&gt;D.提取循环体内部的 \(&lt;span class=&quot;math-inline&quot; data-math=&quot;0, 1, n&quot; data-index-in-node=&quot;23&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;0, 1, n)\&lt;/span&gt; 次迭代对应的&lt;b data-path-to-node=&quot;6,2,0&quot; data-index-in-node=&quot;37&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;局部路径片段&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="316" x="360" y="112.5" as="geometry" />
+          <mxGeometry height="80" width="320" x="360" y="112.5" as="geometry" />
         </mxCell>
         <mxCell id="yRlhxJY5RL-tTfC4KCpP-4" edge="1" parent="1" source="yRlhxJY5RL-tTfC4KCpP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yRlhxJY5RL-tTfC4KCpP-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yRlhxJY5RL-tTfC4KCpP-1" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="&lt;b&gt;用子路径片段合成全局路径&lt;/b&gt;&lt;br&gt;&lt;b&gt;Input&lt;/b&gt;:A,D&lt;br&gt;&lt;b&gt;Initial&lt;/b&gt;：边访问标志向量，初始值为0&lt;br&gt;&lt;b&gt;Output&lt;/b&gt;:&lt;span data-path-to-node=&quot;8,3,1,0,0&quot; data-index-in-node=&quot;0&quot; style=&quot;&quot;&gt;线性无关的全局基本路径全集&lt;/span&gt;。" vertex="1">
-          <mxGeometry height="60" width="150" x="443" y="220" as="geometry" />
+          <mxGeometry height="80" width="320" x="360" y="220" as="geometry" />
         </mxCell>
         <mxCell id="yRlhxJY5RL-tTfC4KCpP-3" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="约束驱动的验证与剪枝" vertex="1">
           <mxGeometry height="60" width="120" x="570" y="335" as="geometry" />
