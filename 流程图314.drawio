@@ -37,8 +37,8 @@
         <mxCell id="yRlhxJY5RL-tTfC4KCpP-4" edge="1" parent="1" source="yRlhxJY5RL-tTfC4KCpP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yRlhxJY5RL-tTfC4KCpP-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yRlhxJY5RL-tTfC4KCpP-1" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="路径片段合成" vertex="1">
-          <mxGeometry height="60" width="120" x="370" y="335" as="geometry" />
+        <mxCell id="yRlhxJY5RL-tTfC4KCpP-1" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="用子路径片段合成全局路径" vertex="1">
+          <mxGeometry height="60" width="150" x="370" y="335" as="geometry" />
         </mxCell>
         <mxCell id="yRlhxJY5RL-tTfC4KCpP-3" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" value="约束驱动的验证与剪枝" vertex="1">
           <mxGeometry height="60" width="120" x="570" y="335" as="geometry" />
