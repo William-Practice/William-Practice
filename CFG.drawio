@@ -4,17 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pokz-PNc2Yb4AoOAl8Vy-1" value="Node A" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="140" width="140" height="120" as="geometry" />
+        <mxCell id="WTfO__4HRrDqZBkWjj43-5" value="Node A&lt;div&gt;Constraint:&lt;/div&gt;&lt;div&gt;$$x- \frac{1}{x}&amp;lt;0&amp;nbsp; \lor (y^2 mod 3=1 \land (y+z)^3=1000)$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="320" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pokz-PNc2Yb4AoOAl8Vy-2" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="pokz-PNc2Yb4AoOAl8Vy-1" vertex="1">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        <mxCell id="WTfO__4HRrDqZBkWjj43-6" value="Node B&lt;div&gt;&lt;div&gt;Constraint:&lt;/div&gt;&lt;div&gt;$$y&amp;gt;0$$&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pokz-PNc2Yb4AoOAl8Vy-3" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="pokz-PNc2Yb4AoOAl8Vy-1" vertex="1">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        <mxCell id="WTfO__4HRrDqZBkWjj43-7" value="Node C&lt;br&gt;&lt;div&gt;Constraint:&lt;/div&gt;&lt;div&gt;$$y&amp;lt;0$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pokz-PNc2Yb4AoOAl8Vy-4" value="$$x - /frac{1}{x}&amp;lt;0$$" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="pokz-PNc2Yb4AoOAl8Vy-1" vertex="1">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        <mxCell id="WTfO__4HRrDqZBkWjj43-8" value="Node D&lt;br&gt;&lt;div&gt;Constraint:&lt;/div&gt;&lt;div&gt;$$y^2 - 2y - 9 &amp;gt; 0$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTfO__4HRrDqZBkWjj43-9" value="Node E&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Constraint:&lt;/span&gt;&lt;div&gt;$$y + z &amp;lt; 0$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WTfO__4HRrDqZBkWjj43-10" value="Node F&lt;br&gt;&lt;div&gt;Constraint:&lt;/div&gt;&lt;div&gt;$$y^3 = 8$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
