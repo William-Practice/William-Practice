@@ -17,7 +17,7 @@
 | 方向 | 工具 |
 |---|---|
 | **数据系统** | Flink CDC · Apache Paimon · Kafka · Hive · HDFS · MySQL · Redis · WebSocket |
-| **工程** | Python · FastAPI · Chroma · LangGraph · Git / GitHub Actions · LaTeX |
+| **工程** | Python · FastAPI · Chroma · LangGraph · Git / GitHub Actions |
 
 ---
 
